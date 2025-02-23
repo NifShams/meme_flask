@@ -31,7 +31,7 @@ Prepare to be **mind-blown** by meme magic! 🌀
 🪄 Click the "**✨ New Meme ✨**" button and let the universe decide your fate!  
 
 ## UI Preview  
-![UI Screenshot](https://your-screenshot-link.com)  
+![UI Screenshot]([https://your-screenshot-link.com](https://github.com/NifShams/meme_flask/blob/main/img/example.png))  
 
 ## Future Enhancements  
 - **Add meme filtering by subreddit!**  
