@@ -30,8 +30,7 @@ Prepare to be **mind-blown** by meme magic! 🌀
 🎭 Each meme is randomly pulled and displayed in a beautifully **mystical meme container**.  
 🪄 Click the "**✨ New Meme ✨**" button and let the universe decide your fate!  
 
-## UI Preview  
-![UI Screenshot]([https://your-screenshot-link.com](https://github.com/NifShams/meme_flask/blob/main/img/example.png))  
+
 
 ## Future Enhancements  
 - **Add meme filtering by subreddit!**  
