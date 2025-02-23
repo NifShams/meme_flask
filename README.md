@@ -1,10 +1,5 @@
-Here's the complete `README.md` file with a fun and engaging tone for your **Magical Meme Portal** project! 🚀✨  
 
----
-
-```md
 # ✨ Magical Meme Portal ✨  
-![Meme Magic](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 
 Welcome to the **Magical Meme Portal** 🪄🚀 – where memes appear out of thin air, and internet humor fuels your soul! This project is a Flask-powered meme generator that fetches fresh memes from Reddit and serves them in a ✨ stunning ✨ galactic UI.  
 
@@ -37,7 +32,6 @@ Prepare to be **mind-blown** by meme magic! 🌀
 
 ## UI Preview  
 ![UI Screenshot](https://your-screenshot-link.com)  
-*(This is where you add a screenshot of your awesome meme portal!)*  
 
 ## Future Enhancements  
 - **Add meme filtering by subreddit!**  
